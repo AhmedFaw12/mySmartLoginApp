@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hi ahmed
-=======
-hi ahmed updated
->>>>>>> f7abf7c7d0a017430533d32b1368471a8b316a7f
